@@ -30,20 +30,10 @@ Sistem Data Siswa dan pegeawaian Merupkana sistem yang mengelola data terkait su
 
 ## Screenshots
 
-**HALAMAN DASHBOARD** 
-![App Screenshot](screenshot/dashboard.png)
-**HALAMAN LOG ACTIVITY** 
-![App Screenshot](screenshot/log.png)
-**HALAMAN PROFILE** 
-![App Screenshot](screenshot/profile.png)
-**HALAMAN DAFTAR PETUGAS** 
-![App Screenshot](screenshot/petugas.png)
-**HALAMAN DAFTAR BARANG MASUK** 
-![App Screenshot](screenshot/masuk.png)
-**HALAMAN DAFTAR BARANG KELUAR** 
-![App Screenshot](screenshot/keluar.png)
-**HALAMAN LAPORAN BARANG** 
-![App Screenshot](screenshot/laporan.png)
+**HALAMAN HALAMAN LOGIN** 
+![App Screenshot](screenshot/halaman-login.png)
+**HALAMAN HALAMAN DASHBOARD** 
+![App Screenshot](screenshot/halaman-dashboard.png)
 
 
 ## Feedback
